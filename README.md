@@ -1,5 +1,2 @@
-# student-Full CRUD operations
-# I used MySQL as db.
-# Thymeleaf for JSP
-# Spring boot for web
- 
+# This tutorial teaches Java/Spring boot users about CRUD Operations.
+# example introduces the concept of CRUD operations, allowing users to manipulate the data held within the context
